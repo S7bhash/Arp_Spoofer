@@ -4,11 +4,18 @@ Arp_Spoof enables arpspoofing in a single execution unlike arpspoof command.
 How to use: 
 ---
 
-Clone the repository to Desktop then type the following command:
+Clone the repository to Desktop and then type the following command:
 
 `cd Desktop` 
 
 `python spoofer.py -t 192.168.0.104 -r 192.168.0.1`
+
+-t stands for target ip and -r stands for router ip 
+
+Use the command :
+
+`python spoofer.py -h`
+to get help and options
 
 Python Version compatibility:
 ---
