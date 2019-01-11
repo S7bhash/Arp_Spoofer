@@ -6,9 +6,9 @@ How to use:
 
 Clone the repository to Desktop and then type the following command:
 
-`cd Desktop` 
+`cd Desktop
 
-`python spoofer.py -t 192.168.0.104 -r 192.168.0.1`
+python spoofer.py -t 192.168.0.104 -r 192.168.0.1`
 
 -t stands for target ip and -r stands for router ip 
 
