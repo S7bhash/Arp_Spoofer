@@ -1,8 +1,10 @@
 # Arp_Spoofer
 Arp_Spoof enables arpspoofing in a single execution unlike arpspoof command.
-Requirements
+
+Requirements:
 ---
 `pip install scapy`
+
 How to use: 
 ---
 
